@@ -1,0 +1,6 @@
+flask
+gunicorn
+openai
+elevenlabs
+ddtrace
+datadog

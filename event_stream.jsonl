@@ -1,0 +1,997 @@
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:09.533914"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:11.544807"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:13.545600"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:15.546201"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:28:17.547246"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:19.548203"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:21.549291"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:23.550223"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:28:25.551348"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:28:27.552362"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:28:29.553374"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:28:31.554108"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:28:33.555040"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:28:35.555744"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:37.556469"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:39.557082"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:28:41.557736"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:43.558606"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:45.559390"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:28:47.560396"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:49.561374"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:51.562435"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:53.563568"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:28:55.564603"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:28:57.565977"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:28:59.566963"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:01.568027"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:29:03.569190"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:29:05.570093"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:07.570951"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:09.571695"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:29:11.572468"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:29:13.573625"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:29:15.574774"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:29:17.575402"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:29:19.576559"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:29:21.577487"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:23.578274"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:25.579803"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:29:27.580842"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:29:29.581835"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:29:31.582579"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:29:33.583406"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:30:25.227015"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:30:27.230636"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:30:29.231410"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:30:31.232672"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:30:33.233910"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:30:35.234753"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:30:37.235961"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:30:39.490560"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:30:41.491661"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:30:43.492700"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:30:45.493910"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:30:47.495133"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:30:49.496002"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:30:51.496814"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:30:53.497818"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:30:55.498897"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:30:57.499842"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:30:59.500876"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:01.502087"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:31:03.502663"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:05.504087"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:07.505132"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:09.506778"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:11.507693"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:13.509025"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:15.510323"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:17.511383"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:19.512019"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:31:21.513814"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:23.514643"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:25.515953"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:27.516868"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:29.517744"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:31.518994"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:33.519937"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:35.520850"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:31:37.521906"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:39.523269"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:31:41.524333"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:43.525284"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:45.526028"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:31:47.526898"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:49.528015"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:51.529731"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:53.530937"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:31:55.531754"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:31:57.533102"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:31:59.534598"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:01.535693"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:03.537382"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:05.538168"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:07.539293"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:09.540843"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:11.542188"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:13.543861"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:15.545330"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:17.546424"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:32:19.547499"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:21.548412"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:23.549986"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:25.550921"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:27.551870"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:29.552889"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:31.553972"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:33.554988"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:35.556096"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:37.557011"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:39.558001"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:32:41.558707"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:43.559574"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:45.560309"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:47.560993"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:49.561757"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:51.562383"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:32:53.563375"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:32:55.564363"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:32:57.565074"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:32:59.566193"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:01.566921"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:03.567911"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:05.568691"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:07.570022"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:09.571173"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:11.572100"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:13.573247"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:15.574926"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:17.575793"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:19.576799"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:21.578613"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:23.579990"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:25.581138"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:27.581972"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:29.583213"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:31.584267"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:33.585471"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:35.586702"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:37.587618"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:39.589056"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:41.590492"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:43.591351"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:45.592537"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:33:47.593732"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:49.594746"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:33:51.596383"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:53.597113"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:55.597994"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:33:57.598760"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:33:59.599532"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:01.600422"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:03.601194"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:05.601954"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:07.603233"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:09.604675"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:11.605667"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:13.607317"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:15.608312"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:17.609178"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:19.610438"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:21.611426"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:23.612153"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:25.613520"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:27.614361"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:29.615631"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:31.616657"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:33.617680"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:35.618598"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:37.619311"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:39.621224"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:41.622219"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:43.623403"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:45.624653"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:47.625297"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:49.626103"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:51.627258"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:34:53.628128"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:34:55.629256"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:34:57.630609"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:34:59.631853"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:01.632720"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:03.633826"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:05.635115"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:35:07.636024"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:09.637727"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:11.638659"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:13.639419"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:15.640306"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:17.641146"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:19.642114"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:21.643203"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:23.644318"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:35:25.645503"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:35:27.647135"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:29.648180"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:31.649064"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:33.651406"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:35.652615"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:37.654022"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:39.655330"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:41.656764"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:43.658072"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:45.660026"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:35:47.661454"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:49.662824"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:51.663860"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:35:53.664981"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:35:55.666350"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:35:57.667029"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:35:59.667867"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:01.669111"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:03.669818"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:05.671086"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:07.672112"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:36:09.673582"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:11.674625"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:36:13.675913"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:36:15.676730"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:17.677937"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:19.678897"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:21.680256"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:36:23.681199"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:25.682221"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:27.683138"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:29.683852"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:31.684843"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:33.686008"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:35.686659"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:36:37.687613"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:39.688746"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:36:41.689877"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:36:43.691023"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:36:45.692069"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:47.692989"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:36:49.694051"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:51.695290"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:53.696196"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:36:55.697354"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:36:57.698070"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:36:59.698728"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:01.700356"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:03.701516"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:05.702734"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:07.703621"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:09.704520"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:11.705511"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:13.707875"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:15.709061"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:17.710506"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:19.711517"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:21.712656"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:23.713947"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:25.714792"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:27.715973"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:29.716924"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:31.718155"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:33.719974"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:35.721611"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:37:37.723029"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:39.724096"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:41.725914"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:43.727198"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:45.728742"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:47.730503"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:49.731898"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:37:51.732873"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:53.733647"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:37:55.734799"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:37:57.736057"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:37:59.737324"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:01.738362"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:38:03.740209"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:05.741384"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:07.742387"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:09.743958"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:11.745770"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:13.747108"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:15.748822"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:17.749783"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:19.750653"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:21.751785"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:23.752878"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:25.754270"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:27.755533"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:29.756342"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:31.757394"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:33.759064"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:35.760660"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:37.761833"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:39.763591"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:38:41.764712"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:43.766672"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:38:45.768256"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:47.769273"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:38:49.770234"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:51.771373"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:38:53.772173"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:38:55.773089"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:38:57.773878"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:38:59.774951"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:01.776356"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:03.777319"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:05.779398"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:07.781224"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:09.782251"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:11.783837"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:39:13.785567"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:15.786525"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:39:17.787650"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:19.788656"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:21.789716"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:23.790562"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:25.791672"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:39:27.792743"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:29.793874"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:31.794951"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:39:33.795628"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:35.797094"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:37.798011"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:39.799949"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:41.801307"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:43.802863"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:45.803799"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:47.805124"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:39:49.806338"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:39:51.807266"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:39:53.808440"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:55.809318"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:57.810196"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:39:59.811426"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:40:01.812346"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:03.813477"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:05.814345"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:07.815548"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:40:09.817196"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:40:11.819010"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:13.820360"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:40:15.821477"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:17.822590"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:19.823508"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:21.824593"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:23.826024"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:25.826910"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:40:27.827897"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:29.829121"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:31.830720"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:33.831493"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:35.832751"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:37.834273"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:39.835023"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:41.836219"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:40:43.837880"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:40:45.839357"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:47.840330"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:49.841703"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:40:51.842894"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:40:53.843741"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:40:55.844935"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:40:57.845878"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:40:59.846927"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:01.847798"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:03.849659"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:05.850702"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:41:07.851982"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:09.853141"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:11.854360"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:13.856224"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:15.857129"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:17.858114"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:19.858859"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:41:21.859818"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:23.860895"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:41:25.861969"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:41:27.862926"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:29.864078"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:31.865949"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:33.867792"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:35.869056"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:37.869905"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:39.872220"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:41.873929"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:43.875605"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:45.877270"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:47.878268"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:49.879809"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:41:51.880730"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:53.881499"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:55.882544"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:41:57.883499"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:41:59.884440"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:01.885410"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:03.886561"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:05.888554"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:07.889718"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:09.890958"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:11.892635"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:13.894174"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:15.896173"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:17.897392"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:19.898341"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:21.899360"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:23.900641"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:25.901689"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:42:27.903025"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:29.904302"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:31.906065"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:33.907012"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:35.908354"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:37.910265"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:39.911042"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:41.912072"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:43.913733"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:45.915497"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:47.916720"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:49.917720"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:51.918636"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:42:53.919764"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:42:55.921161"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:57.922602"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:42:59.923867"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:01.925250"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:03.926354"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:05.928214"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:07.929793"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:09.931521"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:11.933359"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:13.934545"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:15.936199"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:17.936972"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:19.938001"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:21.939303"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:23.940091"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:25.940817"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:27.941665"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:29.942860"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:31.944559"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:33.946313"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:35.948291"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:43:37.949157"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:39.950959"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:41.952384"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:43.953583"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:45.955258"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:47.956430"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:49.957452"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:43:51.959326"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:53.960181"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:43:55.961655"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:57.962694"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:43:59.963993"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:01.965280"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:03.965955"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:05.966686"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:07.968605"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:09.970395"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:11.972225"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:13.973160"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:15.974615"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:17.975489"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:19.976914"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:21.977877"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:23.979147"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:25.980269"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:27.981169"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:29.982996"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:31.984118"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:33.985297"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:35.986345"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:37.987424"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:39.989104"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:41.990619"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:43.991418"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:44:45.993301"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:47.993968"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:49.995764"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:51.996651"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:44:53.997395"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:44:55.998666"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:44:58.000118"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:00.000809"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:02.001983"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:04.002865"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:45:06.004120"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:08.005016"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:10.006244"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:12.007859"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:14.008888"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:16.010203"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:18.011821"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:20.013295"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:22.014761"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:24.016057"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:45:26.016816"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:28.017876"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:30.018995"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:32.020329"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:34.021217"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:36.022501"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:45:38.023540"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:40.024692"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:42.025920"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:44.027944"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:46.028820"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:48.030353"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:50.032487"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:45:52.033655"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:45:54.034804"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:45:56.035759"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:45:58.036849"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:46:00.037637"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:02.038695"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:04.039641"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:06.040729"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:08.042005"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:10.043847"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:12.045611"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:14.047021"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:16.048220"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:18.049150"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:20.051120"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:22.052182"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:24.053280"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:26.054391"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:28.055296"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:30.056153"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:32.057366"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:34.058340"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:46:36.059540"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:38.060758"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:40.062651"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:43.721952"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:45.755213"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:47.759655"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:46:49.760649"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:51.762062"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:46:53.763494"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:55.765110"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:46:57.766386"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:46:59.767412"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:01.768500"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:03.769552"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:05.770838"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:07.773033"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:09.774797"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:11.776700"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:47:13.778233"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:47:15.778973"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:17.780493"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:19.782114"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:47:21.783152"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:23.784109"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:25.785126"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:27.786193"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:29.787108"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:47:31.788179"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:33.789672"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:35.790744"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:37.791581"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:39.792485"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:41.794511"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:43.796627"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:45.798447"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:47.800155"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:49.801838"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:47:51.803031"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:47:53.803926"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:47:55.805217"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:57.807048"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:47:59.808114"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:01.809055"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:48:03.810164"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:05.811361"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:07.812386"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:09.813454"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:11.814399"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:13.815603"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:15.817218"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:48:17.818086"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:19.819182"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:48:21.820429"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:23.822059"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:25.823866"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:27.824813"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:29.826196"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:31.827393"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:33.831459"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:35.832829"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:37.834069"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:39.836113"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:41.837706"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:43.839671"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:45.840848"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:48:47.842405"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:49.844137"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:51.845913"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:53.846988"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:48:55.848006"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:48:57.849154"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:48:59.850119"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:01.851134"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:03.852142"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:05.852801"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:07.854325"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:09.855430"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:11.857022"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:13.857956"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:15.859149"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:17.859989"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:19.861069"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:21.863129"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:23.864369"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:25.865623"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:49:27.866540"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:29.868258"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:31.869349"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:33.870540"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:35.871742"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:37.872657"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:49:39.873659"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:41.874575"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:43.876219"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:45.877556"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:49:47.878591"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:49.879594"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:51.880350"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:49:53.881310"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:49:55.882107"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:49:57.883291"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:49:59.884370"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:01.885482"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:03.886418"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:05.887244"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:07.887929"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:50:09.889495"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:11.891191"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:13.892505"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:15.893501"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:17.895192"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:19.896068"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:21.897417"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:23.898273"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:25.899452"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:27.900797"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:50:29.901872"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:50:31.902696"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:50:33.903759"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:50:35.904855"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:37.906080"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:50:39.907318"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:41.908365"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:43.909685"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:50:45.912830"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:47.914365"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:49.915598"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:50:51.916735"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:50:53.917915"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:55.918978"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:50:57.919667"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:50:59.920846"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:01.921878"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:51:03.922941"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:05.924172"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:07.925098"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:09.926413"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:11.927811"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:13.928893"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:15.929763"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:17.931082"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:19.932282"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:21.933417"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:23.934272"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:25.935652"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:27.936680"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:29.937636"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:31.938396"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:33.939679"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:35.940801"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:51:37.941622"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:51:39.942833"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:41.943937"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:51:43.945154"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:45.946209"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:47.947716"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:49.949198"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:51:51.950229"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:53.951236"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:51:55.952755"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:51:57.953557"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:51:59.954519"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:01.955680"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:03.956614"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:52:05.957422"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:07.959070"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:09.959860"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:11.961703"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:13.963149"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:15.964015"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:17.965166"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:52:19.966172"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:21.967967"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:23.969170"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:25.969885"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:27.970871"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:29.971930"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:52:31.973046"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:33.974372"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:35.975939"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:37.976844"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:52:39.977984"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:41.979186"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:52:43.980206"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:45.981885"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:47.982691"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:49.983967"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:51.985323"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:53.986379"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:52:55.987291"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:52:57.988751"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:52:59.989828"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:01.991072"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:53:03.992009"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:05.993061"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:07.993891"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:09.994857"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:53:11.995729"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:13.996580"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:15.997514"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:17.998328"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:19.999860"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:22.000892"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:24.002172"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:26.003354"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:28.004203"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:53:30.005320"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:32.006495"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:34.007606"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:36.008920"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:38.009596"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:40.010356"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:42.012105"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:44.013419"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:46.014818"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:53:48.015783"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:50.017561"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:52.019190"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:53:54.020217"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:53:56.021228"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:53:58.022203"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:54:00.023518"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:02.024885"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:54:04.025820"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:06.026575"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:08.027773"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:10.028754"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:12.029847"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:14.031040"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:16.032036"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:18.033046"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:20.034944"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:22.035921"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:24.037131"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:26.038152"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:28.039469"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:30.040333"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:54:32.041465"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:34.042300"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:36.043869"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:38.044620"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:54:40.045659"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:42.046356"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:44.047513"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:46.048536"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:54:48.049259"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:50.050129"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:52.050993"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:54:54.052138"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:54:56.053271"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:54:58.054469"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:00.055629"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:02.056506"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:04.057645"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:06.058656"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:08.059708"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:10.060731"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:12.061803"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:14.062968"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:16.064470"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:18.066314"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:20.067258"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:22.068274"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:55:24.070518"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:26.071688"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:28.072724"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:30.073774"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:32.074979"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:34.076398"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:36.077230"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:38.078010"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:40.079290"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:42.080309"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:44.081187"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:55:46.082354"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:48.083400"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:50.085351"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:52.086185"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:55:54.087042"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:55:56.088020"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:55:58.089026"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:56:00.090259"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:56:02.091107"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:04.092264"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:06.093577"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:08.094671"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:10.095559"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:56:12.096609"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:14.097407"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:16.098849"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:18.102952"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:20.104252"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:22.105465"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:24.106255"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:26.107363"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:56:28.108538"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:30.109367"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:56:32.110444"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:34.111219"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:36.112703"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:38.113840"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:56:40.115243"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:42.116647"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:44.118327"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:56:46.119559"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:48.120575"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:50.121541"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:52.122790"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:54.123688"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:56:56.124602"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:56:58.125916"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:00.126818"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:02.127979"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:04.128909"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:06.130106"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:08.131094"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:10.132522"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:12.133708"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:57:14.134505"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:16.135311"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:18.136261"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:57:20.137373"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:22.138688"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:24.139931"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:26.141001"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:28.141747"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:30.142670"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:57:32.143955"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:34.144881"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:36.145794"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:38.147288"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:40.148893"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:42.150310"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:44.151842"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:57:46.153333"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:48.154394"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:57:50.155197"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:52.156669"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:57:54.157524"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:56.158260"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:57:58.158989"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:00.159994"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:02.161012"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:04.161945"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:06.162808"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:08.163594"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:10.164486"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:12.165474"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:14.166160"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:16.167293"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:18.168465"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:20.170262"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:22.170964"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:24.172070"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:26.172751"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:28.173644"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:58:30.174913"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:58:32.176105"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:34.176904"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:36.177902"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:38.178819"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:40.179820"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:42.180509"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:44.181256"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:46.182508"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:58:48.183566"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:50.184529"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:52.185290"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:54.186326"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:58:56.187491"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:58:58.188972"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:00.190088"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:02.191437"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:59:04.192518"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:06.193735"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:08.194887"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:10.196008"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:12.196750"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:59:14.198417"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:16.199204"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:18.200120"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:20.201008"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:22.201694"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:24.202485"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:59:26.203590"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:28.206084"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:30.206851"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:32.208140"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:34.208859"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:36.209809"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:38.210566"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:40.211460"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:42.212466"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:44.213211"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:59:46.214118"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:48.215201"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:50.215918"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T15:59:52.217249"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T15:59:54.218444"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T15:59:56.219197"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T15:59:58.220492"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:00:00.221500"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:02.222350"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:00:04.223051"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:06.224112"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:08.225026"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:10.226426"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:12.227279"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:14.228357"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:00:16.229236"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:00:18.230012"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:00:20.230771"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:00:22.231699"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:24.232797"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:00:26.233787"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:00:28.234922"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:30.236045"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:32.236914"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:34.237658"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:36.238496"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:38.239123"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:40.240445"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:42.241475"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:44.242924"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:00:46.243603"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:48.244331"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:00:50.245263"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:52.245973"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:54.246846"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:00:56.247634"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:00:58.248620"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:00.249418"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:02.250524"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:04.251600"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:06.252396"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:08.253247"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:10.254559"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:12.255373"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:14.256035"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:01:16.256717"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:18.257550"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:20.258550"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:22.259265"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:24.260017"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:26.260635"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:28.261420"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:30.262188"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:32.263707"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:34.264380"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:36.265325"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:38.266656"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:01:40.267612"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:42.268429"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:44.269085"}
+{"service": "inventory", "level": "warning", "msg": "Low stock", "timestamp": "2025-12-28T16:01:46.269892"}
+{"service": "auth", "level": "info", "msg": "User logged in", "timestamp": "2025-12-28T16:01:48.270812"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:01:50.271913"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:52.273470"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:54.274250"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:01:56.274959"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:01:58.275960"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:00.277383"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:02.278479"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:04.279513"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:02:06.280259"}
+{"service": "orders", "level": "info", "msg": "Order created", "timestamp": "2025-12-28T16:02:08.281215"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:10.282191"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:12.283467"}
+{"service": "payments", "level": "error", "msg": "Payment failed", "timestamp": "2025-12-28T16:02:14.284341"}

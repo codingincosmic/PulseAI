@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PulseAI – Voice AI</title>
+</head>
+<body>
+    <div class="container">
+
+   <h1>PulseAI 🎙️</h1>
+<p class="subtitle">Real-time AI System Observability</p>
+
+<hr>
+
+<div class="status-box">
+    <h3>System Status</h3>
+
+    <div class="status-line">
+        Live Events
+        <span class="badge green">Connected</span>
+    </div>
+
+    <div class="status-line">
+        AI Analysis
+        <span class="badge green">Active</span>
+    </div>
+
+    <div class="status-line">
+        Voice Output
+        <span class="badge yellow">Unavailable</span>
+    </div>
+</div>
+
+
+<hr>
+
+    <form method="POST">
+        <input type="text" name="question" placeholder="Ask something..." required>
+        <button type="submit">Ask</button>
+    </form>
+
+  <h2>AI System Summary</h2>
+
+<div class="summary-box">
+    {{ answer }}
+</div>
+
+{% if not audio_file %}
+<p class="footer-note">
+Voice response unavailable — system operating in text-only mode.
+</p>
+{% endif %}
+
+
+    {% if audio_file %}
+<h3>System Voice Response</h3>
+<audio controls>
+  <source src="{{ audio_file }}" type="audio/mpeg">
+</audio>
+{% else %}
+<p><em>Voice response unavailable — system operating in text-only mode.</em></p>
+{% endif %}
+ 
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</div>
+
+</body>
+</html>
+ 
