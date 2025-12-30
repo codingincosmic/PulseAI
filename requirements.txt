@@ -3,4 +3,3 @@ gunicorn
 openai
 elevenlabs
 ddtrace
-python-dotenv

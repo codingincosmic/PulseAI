@@ -3,7 +3,11 @@ import json
 from flask import Flask, render_template, request
 from openai import OpenAI, RateLimitError
 from elevenlabs.client import ElevenLabs
-from datadog import statsd
+try:
+    from datadog import statsd
+    statsd.increment("pulseai.voice_quota_exceeded")
+except Exception:
+    pass
 
 app = Flask(__name__)
 
